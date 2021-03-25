@@ -10,5 +10,11 @@ A distributed, decentralized, scalable and highly available nosql database.
 - If high availability is needed
 - If you want faster writes
 
+# Constraints
+- No foreign keys
+- No joins
 
+# Querying
+Just like SQL, Cassandra has CQL
+- Keyspace is analogous to database in RDBMS
  
